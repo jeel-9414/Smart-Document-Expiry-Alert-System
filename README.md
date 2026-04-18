@@ -17,3 +17,23 @@ A desktop-based system to efficiently manage documents and track expiry with aut
 
 ## Author
 Developed by Jeel Panchal
+
+## Screenshots
+
+### Home
+![Home](screenshots/Home.png)
+
+### Registration
+![Registration](screenshots/Registration.png)
+
+### Login
+![Login](screenshots/Login.png)
+
+### Expiry Dashboard
+![Dashboard](screenshots/Expiry_documents.png)
+
+### Documents
+![Documents](screenshots/Documents.png)
+
+### Notifications
+![Notifications](screenshots/Notification.png)
